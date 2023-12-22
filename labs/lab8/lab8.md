@@ -14,6 +14,6 @@ Class: CIS 106 Linux Fundamentals
 ![q3](lab8.3.png)
 
 ## Links
-![linux.md]()
-![linux+other.md]()
-![GNU+Linux.md]()
+![linux.md](https://github.com/fdelacruz02/cis106/blob/main/labs/lab8/linux.md)
+![linux+other.md](https://github.com/fdelacruz02/cis106/blob/main/labs/lab8/linux%2Bother.md)
+![GNU+Linux.md](https://github.com/fdelacruz02/cis106/blob/main/labs/lab8/GNU%2BLinux.md)
